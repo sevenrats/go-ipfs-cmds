@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ipfs/boxo/files"
+	"github.com/sevenrats/boxo/files"
 
 	logging "github.com/ipfs/go-log"
 )

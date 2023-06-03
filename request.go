@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ipfs/boxo/files"
+	"github.com/sevenrats/boxo/files"
 )
 
 // Request represents a call to a command from a consumer

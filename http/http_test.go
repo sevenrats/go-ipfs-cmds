@@ -14,7 +14,7 @@ import (
 
 	cmds "github.com/ipfs/go-ipfs-cmds"
 
-	"github.com/ipfs/boxo/files"
+	"github.com/sevenrats/boxo/files"
 )
 
 func newReaderPathFile(t *testing.T, path string, reader io.ReadCloser, stat os.FileInfo) files.File {
