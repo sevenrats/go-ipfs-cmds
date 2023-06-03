@@ -3,7 +3,7 @@ package http
 import (
 	"testing"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
 )
 
 type testResponseType struct {

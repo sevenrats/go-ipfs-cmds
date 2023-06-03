@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
 )
 
 type flushfwder struct {

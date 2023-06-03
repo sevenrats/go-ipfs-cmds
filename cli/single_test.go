@@ -5,7 +5,7 @@ import (
 	"context"
 	"testing"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
 )
 
 func TestSingle(t *testing.T) {

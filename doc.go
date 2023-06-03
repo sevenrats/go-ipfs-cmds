@@ -84,6 +84,6 @@ network.
 
 To get a better idea of what's going on, take a look at the
 examples at
-https://github.com/ipfs/go-ipfs-cmds/tree/master/examples.
+https://github.com/sevenrats/go-ipfs-cmds/tree/master/examples.
 */
 package cmds

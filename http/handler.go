@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
 	logging "github.com/ipfs/go-log"
 	cors "github.com/rs/cors"
 )

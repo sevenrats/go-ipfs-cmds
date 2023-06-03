@@ -4,12 +4,12 @@ import (
 	"context"
 	"os"
 
-	"github.com/ipfs/go-ipfs-cmds/examples/adder"
+	"github.com/sevenrats/go-ipfs-cmds/examples/adder"
 
-	//cmds "github.com/ipfs/go-ipfs-cmds"
-	cmds "github.com/ipfs/go-ipfs-cmds"
-	cli "github.com/ipfs/go-ipfs-cmds/cli"
-	http "github.com/ipfs/go-ipfs-cmds/http"
+	//cmds "github.com/sevenrats/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
+	cli "github.com/sevenrats/go-ipfs-cmds/cli"
+	http "github.com/sevenrats/go-ipfs-cmds/http"
 )
 
 func main() {

@@ -14,7 +14,7 @@ import (
 	"strings"
 
 	"github.com/sevenrats/boxo/files"
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
 	logging "github.com/ipfs/go-log"
 )
 

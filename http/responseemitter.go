@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/sevenrats/go-ipfs-cmds"
 )
 
 var (
