@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-cmds
+module github.com/sevenrats/go-ipfs-cmds
 
 go 1.18
 
